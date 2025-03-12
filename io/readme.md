@@ -1,6 +1,6 @@
-##IO
+## IO
 
-###기본 자료형
+### 기본 자료형
 
 - `int` : 
 - `float` : asdfasdf
@@ -10,4 +10,4 @@
 
 `ASCII table`
 
-| 설명
+> 설명
